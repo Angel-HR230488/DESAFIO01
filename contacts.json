@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "nombre": "Angel",
+      "apellido": "Her",
+      "telefono": "123456789",
+      "favorito": true
+    },
+    {
+      "id": 2,
+      "nombre": "Rayo",
+      "apellido": "McQueen",
+      "telefono": "987654321",
+      "favorito": true
+    },
+    {
+      "id": 3,
+      "nombre": "Esteban",
+      "apellido": "Lorenzo",
+      "telefono": "555666777",
+      "favorito": false
+    }
+  ]
+  
