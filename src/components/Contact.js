@@ -3,7 +3,7 @@ import { Text, View, Button, StyleSheet } from 'react-native';
 
 const Contact = ({ contact, eliminarContacto, toggleFavorito }) => {
   if (!contact) {
-    return null; // Asegúrate de que 'contact' esté definido
+    return null; 
   }
 
   return (

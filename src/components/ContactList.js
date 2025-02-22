@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { View, TextInput, Button, StyleSheet, Alert, Text } from 'react-native';
 import Contact from './Contact';
-import contactsData from '../../contacts.json';  // Ajusta la ruta según sea necesario
+import contactsData from '../../contacts.json';  
 
 const ContactList = () => {
   const [contacts, setContacts] = useState([]);
